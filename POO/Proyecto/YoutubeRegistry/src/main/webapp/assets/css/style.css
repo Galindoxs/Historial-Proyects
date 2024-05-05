@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+#noAcademicCard{
+	background-color:#89E6FD;
+	margin: 5px;
+}
+
+#academicCard{
+	background-color:#90A3FF;
+	margin: 5px;
+}
+
+#counterCard{
+	background-color:#F45B69;
+	margin: 5px;
+}
+
+#card{
+	background-color: #D9F7FA;	
+}
+
+#registryModal{
+	background-color:#f5d6ba;
+}
